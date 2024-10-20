@@ -5,7 +5,7 @@ An enthusiastic software developer driven by a deep interest in technology and a
 
 With a background in marine engineering and an interest in complex technical systems, I am developing skills in backend programming with C# to create efficient and reliable IT solutions.
 
-⚓️ Marine Engineer turned Developer | 🤖 Tech Enthusiast | 📈 Always Learning
+ 🤖 Tech Enthusiast | 📈 Always Learning | ⚓️ Marine Engineer turned Developer
 
 ## 📂 Projects
 
