@@ -18,8 +18,11 @@ Built a web API application designed for managing, updating, and displaying flig
 Developed a scooter rental system based on TDD principles, enabling scooter maintenance, rental processes, and revenue calculation.
 
 🛠️ Technologies Used
+
 Backend: C#
+
 Frontend: JavaScript/TypeScript
+
 Database: SQL
 
 ## 📫 Connect with Me
